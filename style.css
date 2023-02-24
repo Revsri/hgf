@@ -1,0 +1,16 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+    color: black;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px;
+    width: 350px;
+    height: 300px;
+}
